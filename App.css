@@ -1,0 +1,223 @@
+body {
+  font-family: Helvetica, Arial, "sans-serif";
+  font-size: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#loginform {
+  margin: 0 auto;
+  width: 460px;
+}
+
+#outerbox {
+  border: 1px solid #666;
+  margin: 120px auto 0;
+  padding: 30px 10% 100px;
+  border-radius: 12px;
+}
+
+#logo {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 13%;
+  display: block;
+}
+
+input {
+  height: 64px;
+  width: 100%;
+  padding: 0 10px;
+  border: 1px solid #666;
+  margin-bottom: 16px;
+  font-size: 18px;
+  border-radius: 4px;
+}
+
+input::placeholder {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #5236cc;
+  font-weight: bold;
+}
+
+button {
+  width: 100%;
+  min-height: 44px;
+  padding: 12px 32px;
+  margin-top: 20px;
+  background-color: #1e1bb9;
+  border: 0;
+  color: #fff;
+  border-radius: 25px;
+  height: 48px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.button2 {
+  width: 100%;
+  min-height: 44px;
+  padding: 12px 32px;
+  margin-top: 20px;
+  background-color: #1e1bb9;
+  border: 0;
+  color: #fff;
+  border-radius: 25px;
+  height: 48px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+
+.loginSignUpSeparator {
+  border-top: 1px solid #cbd2d6;
+  position: relative;
+  margin-top: 8.72%;
+  margin-bottom: 4.895%;
+  height: 15px;
+  text-align: center;
+  font-size: 83.34%;
+}
+
+.intentFooter {
+  position: relative;
+  display: block;
+  font-size: 12px;
+  margin-top: 72px;
+}
+
+.picker.country-selector button {
+  display: inline-block;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+.country-selector .PH, .country-selector .philippines {
+  background-position: 5px -1749px;
+}
+
+.country-selector .country {
+  overflow: hidden;
+  height: 24px;
+  min-width: 32px;
+  background: transparent url(https://www.paypalobjects.com/webstatic/mktg/icons/sprite_countries_flag4.png) 5px 100px no-repeat;
+  border: none;
+  text-align: left;
+}
+
+.footer .legalFooter a, .footer .legalFooter a:link, .footer .legalFooter a:visited, .footer .legalFooter a:hover {
+  color: #666;
+  white-space: nowrap;
+}
+
+.footerGroup li a, .footerGroup li a:link, .footerGroup li a:visited, .footerGroup li a:hover {
+  color: #666;
+  white-space: nowrap;
+}
+
+li {
+  text-align: -webkit-match-parent;
+}
+
+element.style {
+}
+.footer .legalFooter a, .footer .legalFooter a:link, .footer .legalFooter a:visited, .footer .legalFooter a:hover {
+    color: #666;
+    white-space: nowrap;
+}
+.footerGroup li a, .footerGroup li a:link, .footerGroup li a:visited, .footerGroup li a:hover {
+    color: #666;
+    white-space: nowrap;
+}
+a, a:link, a:visited {
+    color: #1072eb;
+    font-family: pp-sans-big-medium,Helvetica Neue,Arial,sans-serif;
+    font-variant: normal;
+    font-weight: 400;
+    text-decoration: none;
+    -webkit-transition: color .2s ease-out;
+    -moz-transition: color .2s ease-out;
+    -o-transition: color .2s ease-out;
+    transition: color .2s ease-out;
+}
+p, div, span, a, h1, label, select {
+    font-family: pp-sans-big-regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+user agent stylesheet
+li {
+    text-align: -webkit-match-parent;
+}
+.footerGroup {
+    list-style-type: none;
+    text-align: center;
+}
+user agent stylesheet
+ul {
+    list-style-type: disc;
+}
+.footer .legalFooter {
+    text-align: center;
+    padding: 14px;
+    background-color: #F7F9FA;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 11px;
+    padding-top: 14px;
+}
+body {
+    min-height: 100%;
+    padding: 0;
+    color: #2c2e2f;
+    font-family: Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 112.5%;
+    -webkit-font-smoothing: antialiased;
+    -webkit-backface-visibility: hidden;
+    -moz-text-size-adjust: 112.5%;
+    -ms-text-size-adjust: 112.5%;
+    -webkit-text-size-adjust: 112.5%;
+}
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #2c2e2f;
+    font-family: pp-sans-big-regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 400;
+    font-variant: normal;
+    font-size: 112.5%;
+    -webkit-font-smoothing: antialiased;
+    -webkit-backface-visibility: hidden;
+    -moz-text-size-adjust: 112.5%;
+    -ms-text-size-adjust: 112.5%;
+    -webkit-text-size-adjust: 112.5%;
+}
